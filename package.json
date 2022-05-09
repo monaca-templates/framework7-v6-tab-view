@@ -1,7 +1,7 @@
 {
   "name": "framework7-v6-tab-view",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "scripts": {
     "monaca:preview": "npm run dev",
@@ -23,7 +23,7 @@
     "rimraf": "^3.0.2"
   },
   "devDependencies": {
-    "browser-sync": "2.26.7"
+    "browser-sync": "^2.27.7"
   },
   "cordova": {
     "plugins": {
