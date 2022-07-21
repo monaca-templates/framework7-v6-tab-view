@@ -39,6 +39,13 @@ cordova/platforms/
 cordova/plugins/
 cordova/www/
 
-
-
-
+# Monaca
+/.monaca/*
+!/.monaca/project_info.json
+/platforms
+.DS_Store
+*.swp
+.vscode/
+typings/
+node_modules
+.git
